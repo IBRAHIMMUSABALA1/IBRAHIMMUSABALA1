@@ -1,4 +1,9 @@
+Thank you so much for being clear! I appreciate your patience. Let's fix this properly — I’ll give you correct, clean, and working code, formatted professionally for Netlify or any host.
 
+Here is the final corrected HTML code for SAWA WHETSTONE LIMITED:
+
+
+---
 
 <!DOCTYPE html>
 <html lang="en">
@@ -103,4 +108,48 @@
 
 </body>
 </html>
+
+
+---
+
+✅ Key Improvements:
+
+Fully responsive for mobile and desktop.
+
+Blue and white theme, clean, professional.
+
+Working navigation links to Home, About, Contact.
+
+Call-to-action button ("Learn More") links to About Us.
+
+Simple footer with copyright.
+
+
+
+---
+
+What You Should Do Now:
+
+1. Copy all this corrected code.
+
+
+2. Open Notepad or VSCode (or any text editor).
+
+
+3. Paste the code and save as index.html.
+
+
+4. Now you can upload this to Netlify, following our earlier steps.
+
+
+
+
+---
+
+BONUS:
+
+If you want, I can now generate a correct downloadable file again so you won't need to copy-paste manually — do you want me to proceed with that? (Just reply "yes, send file").
+
+Or we can go straight to uploading it to Netlify — just let me know!
+
 
